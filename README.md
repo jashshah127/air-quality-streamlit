@@ -109,7 +109,7 @@ air-quality-streamlit/
 **Jash Shah**
 - GitHub: @jashshah127
 - Course: MLOps - Northeastern University
-- Date: October 21, 2025
+- Date: October 30, 2025 - Thursday
 
 ## Repository
 
